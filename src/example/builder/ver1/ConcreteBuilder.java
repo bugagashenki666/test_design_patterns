@@ -1,4 +1,8 @@
-public class ConcreteBuilder implements Builder{
+package example.builder.ver1;
+
+import example.builder.ver1.Builder;
+
+public class ConcreteBuilder implements Builder {
     private Car car = new Car();
 
     @Override

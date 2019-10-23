@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<bands>
+    <band name="Limp Bizkit" type="Singing">
+        <participant name="Fred Durst">
+            <action>lead vocals</action>
+        </participant>
+        <participant name="John Otto">
+            <action>bas</action>
+            <action>backing vocals</action>
+        </participant>
+        <participant name="Sam Rivers">
+            <action>drums</action>
+            <action>percussion</action>
+        </participant>
+        <participant name="Wes Borland">
+            <action>guitars</action>
+            <action>vocals</action>
+        </participant>
+        <participant name="DJ Lethal">
+            <action>turntables</action>
+        </participant>
+    </band>
+</bands>

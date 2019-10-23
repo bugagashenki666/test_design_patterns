@@ -1,3 +1,8 @@
+package example.builder.ver1;
+
+import example.builder.ver1.Builder;
+import example.builder.ver1.ConcreteBuilder;
+
 public class Director {
     public Car construct(String params)
     {

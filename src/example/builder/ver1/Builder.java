@@ -1,3 +1,5 @@
+package example.builder.ver1;
+
 public interface Builder {
     Car getCar();
     void buildBrand(String brand);

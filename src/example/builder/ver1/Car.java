@@ -1,3 +1,5 @@
+package example.builder.ver1;
+
 public class Car {
     private String model;
     private int numberOfWheels;
@@ -49,7 +51,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "example.builder.ver1.Car{" +
                 "model='" + model + '\'' +
                 ", numberOfWheels=" + numberOfWheels +
                 ", brand='" + brand + '\'' +
